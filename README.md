@@ -9,9 +9,7 @@ Single-cell RNA-sequencing (scRNA-seq) techniques provide unprecedented opportun
 ## MATLAB version dependency
 
 - Bioinformatics Toolbox
-
 - Statistics and Machine Learning Toolbox
-
 - [PROPACK](http://sun.stanford.edu/~rmunk/PROPACK/) (optional)
 
 ## Python version dependency
@@ -24,4 +22,3 @@ Single-cell RNA-sequencing (scRNA-seq) techniques provide unprecedented opportun
 - scipy>=1.3.2
 - python-igraph>=0.8.3
 - leidenalg>=0.7.0 
-
